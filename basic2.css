@@ -1,0 +1,29 @@
+.hi{
+    padding: 5%;
+     background-color: white;
+     font-size: large;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+    justify-content: center;
+    
+    
+}
+.hello{
+   /* justify-content: center; */
+   justify-items: center;
+   padding: 6.25%;
+   padding-left: 30%;
+  
+}
+
+.all{
+    display: flex;
+    background-color: lightblue;
+}
+
+.sym{
+    float: right;
+}

@@ -1,0 +1,46 @@
+#hi{
+    background-color:palegoldenrod;
+    padding: 6.5%;
+    border: black;
+    
+}
+
+#all{
+    color: white;
+    background-color: black;
+    padding: 3%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+img{
+    float: right;
+    height: 250px;
+    width: 250px;
+}
+#train{
+    height: 25px;
+    width: 25px;
+    float: left;
+}
+
+body{
+    margin: 0%;
+    font-family: 'Poppins',sans-serif;
+}
+
+button{
+    color: azure;
+    background-color: black;
+    padding:7px;
+}
+
+#fly{
+    float:right;
+    color: white;
+    justify-content: end;
+}
+
+input{
+    padding: 6px;
+}
