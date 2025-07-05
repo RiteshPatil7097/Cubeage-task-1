@@ -1,0 +1,110 @@
+.hi{
+    padding: 5%;
+     background-color: white;
+     font-size: large;
+}
+
+img{
+    height: 300px;
+    width: 600px;
+    justify-content: center;
+    padding-right: 70px;
+}
+.hello{
+   /* justify-content: center; */
+   justify-items: center;
+   padding: 6.35%;
+   padding-left: 20%;
+}
+
+.all{
+    background-color: lightblue;
+    display: flex;
+    font-family:serif;
+}
+
+.sym{
+    float: right;
+    border-radius: 50%;
+    height: 10px;
+    
+}
+
+.symbol{
+    padding: 5px;
+    border-radius: 100%;
+    padding-top: 15px;
+    height:30px;
+    width: 30px;
+    background-color:lightblue;
+    border: thick ;
+    color:white;
+    text-align: center;
+   margin-right: 5px;
+}
+
+
+.book{
+    display: flex;
+    /* border: solid 6px; */
+    justify-content: space-around;
+    margin-top: 10px;
+    padding-top: 10px;
+    margin-right: 20px;
+}
+
+.symbol1{
+    justify-content: space-around;
+    padding: 5px;
+    border-radius: 100%;
+    padding-top: 15px;
+    margin-left: 40px;
+    height:30px;
+    width: 30px;
+    background-color:blue;
+    border: thick ;
+    color:white;
+    text-align: center;
+}
+.symbol3{
+    padding: 5px;
+    border-radius: 100%;
+    padding-top: 15px;
+    margin-right: 10px;
+    height:30px;
+    width: 30px;
+    background-color: orangered;
+    border: thick ;
+    color:white;
+    text-align: center;
+   
+}
+
+.pocket{
+    margin-left: 60px;
+    display: flex;
+    margin-bottom: 30px;
+}
+.plus{
+    text-align: center;
+    font-size:30px;
+    padding: 10px;
+    margin: 10px;
+    height: 30px;
+    border-radius: 100%;
+    background-color: blueviolet;
+    color: white;
+    /* size: 10%; */
+    /* height: 30px;
+    width: 30px; */
+    
+}
+h1{
+    display: flex;
+}
+
+.saurabh{
+    display: flex;
+    margin-left: 80px;
+
+}
